@@ -1,0 +1,2 @@
+# Satranc
+ cs-tech
